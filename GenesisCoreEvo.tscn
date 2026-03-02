@@ -1,6 +1,7 @@
 [gd_scene format=3 uid="uid://dohervy0kbbtc"]
 
 [node name="Node2D" type="Node2D" unique_id=672151932]
+position = Vector2(82, 47)
 
 [node name="Node2D" type="Node2D" parent="." unique_id=1273128191]
 visible = false
